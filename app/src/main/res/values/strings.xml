@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi_Grupo_Pol</string>
+    <string name="botonLogin">Entrar</string>
+    <string name="usuarioLogin">Usuario</string>
+    <string name="contraseñaLogin">Contraseña</string>
+    <string name="recuperarContraseña">¿Olvidaste tu contraseña?</string>
+    <string name="iContraseña">Icono Contraseña</string>
+    <string name="iUsuario">Icono Usuario</string>
+</resources>
